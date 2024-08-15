@@ -1,13 +1,13 @@
 package Bot;
 
 import java.awt.*;
-import java.io.*;
 import java.awt.event.*;
+import java.io.*;
+import java.net.*;
+import java.text.*;
+import java.util.*;
 import javax.swing.*;
 import javax.swing.border.*;
-import java.util.*;
-import java.text.*;
-import java.net.*;
 
 public class Chat_Bot implements ActionListener {
     
